@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="15.868639">
+    <testcase classname="BookCart Application Demo" name="Add a product to the cart" time="15.868639">
+        <system-out><![CDATA[And user should login with "Manny" and "Sunday!123".........................passed
+And user search a "hp6".....................................................passed
+When user add the book to the cart..........................................passed
+Then cart badge should be updated...........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
